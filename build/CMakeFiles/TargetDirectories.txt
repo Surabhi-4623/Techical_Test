@@ -1,0 +1,3 @@
+C:/Surabhi/Resume/New Resume/Neww/Canonical/Linux/build/CMakeFiles/main.dir
+C:/Surabhi/Resume/New Resume/Neww/Canonical/Linux/build/CMakeFiles/ALL_BUILD.dir
+C:/Surabhi/Resume/New Resume/Neww/Canonical/Linux/build/CMakeFiles/ZERO_CHECK.dir

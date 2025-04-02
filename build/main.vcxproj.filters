@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Surabhi\Resume\New Resume\Neww\Canonical\Linux\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Surabhi\Resume\New Resume\Neww\Canonical\Linux\src\fetchUbuntuImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Surabhi\Resume\New Resume\Neww\Canonical\Linux\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BF36D1C2-42B1-3CA7-B036-14C7280E2330}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
